@@ -9,7 +9,7 @@ Metaflow extensions from Netflix. This is a monorepo containing the following pa
 
 ## Installation
 
-```bash
+"'
 pip install metaflow-netflixext
 pip install metaflow-functions
 ```
